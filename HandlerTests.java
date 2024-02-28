@@ -23,4 +23,5 @@ public class HandlerTests {
     h.handleRequest(input1);
     assertEquals(expected, h.handleRequest(input2));
   }
+  
 }
